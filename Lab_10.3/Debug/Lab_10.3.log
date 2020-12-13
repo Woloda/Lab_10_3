@@ -1,0 +1,6 @@
+﻿  Lab_10.3.cpp
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_10.3\Lab_10.3\Lab_10.3.cpp(48,12): warning C4101: 'pos': unreferenced local variable
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_10.3\Lab_10.3\Lab_10.3.cpp(52,7): warning C4101: 'filename': unreferenced local variable
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_10.3\Lab_10.3\Lab_10.3.cpp(48,31): warning C4101: 'index': unreferenced local variable
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_10.3\Lab_10.3\Lab_10.3.cpp(48,17): warning C4101: 'zmina': unreferenced local variable
+  Lab_10.3.vcxproj -> E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_10.3\Debug\Lab_10.3.exe
